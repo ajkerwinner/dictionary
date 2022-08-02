@@ -1,2 +1,2 @@
 # dictionary
-https://facebook-videoo.github.io/dictionary
+https://jisan-mahmud.github.io/dictionary/
